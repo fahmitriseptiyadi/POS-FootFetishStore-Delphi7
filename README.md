@@ -1,3 +1,4 @@
+![image](https://github.com/fahmitriseptiyadi/POS-FootFetishStore-Delphi7/assets/94856222/7632f72c-e432-4e5c-b391-b526705f9fd3)
 # POS-FootFetishStore-Delphi7
 
 Proyek "POS-FootFetishStore-Delphi7" adalah sebuah aplikasi Point of Sale yang dikembangkan menggunakan bahasa pemrograman Delphi versi 7. Aplikasi ini dirancang khusus untuk toko sepatu Foot Fetish Store agar dapat mengelola transaksi penjualan dengan lebih efisien dan akurat.
@@ -19,9 +20,3 @@ Dalam pengembangannya, kami menggunakan bahasa pemrograman Delphi 7 yang telah t
 Proyek ini bertujuan untuk membantu Foot Fetish Store dalam meningkatkan efisiensi operasional dan pengelolaan inventaris sepatu. Dengan menggunakan aplikasi POS yang handal dan mudah digunakan ini, diharapkan toko dapat meningkatkan pengalaman pelanggan dan mendapatkan informasi yang akurat mengenai penjualan sepatu mereka.
 
 Kami berharap bahwa proyek "POS-FootFetishStore-Delphi7" ini dapat memberikan manfaat dan kontribusi positif bagi Foot Fetish Store dalam mengoptimalkan proses penjualan dan pengelolaan inventaris.
-
-![image](https://github.com/fahmitriseptiyadi/POS-FootFetishStore-Delphi7/assets/94856222/7632f72c-e432-4e5c-b391-b526705f9fd3)
-
-
-
-
